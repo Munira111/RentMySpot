@@ -159,7 +159,6 @@ public class DBHelper extends SQLiteOpenHelper {
         if (cursor.moveToFirst()) {
             do {
                 String username = cursor.getString(0);
-
                 String SName = cursor.getString(2);
                 String Scat = cursor.getString(3);
                 int Sprice = cursor.getInt(4);
