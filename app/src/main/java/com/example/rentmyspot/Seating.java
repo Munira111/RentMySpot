@@ -11,7 +11,6 @@ public class Seating {
     String Scategory;
     int Sprice;
     String Sdescription;
-
      byte[] imageData;
 
     public Seating(String userneme, String Sname, String Scatogary, int Sprice, String Sdescription,byte[] imageData ) {
@@ -26,7 +25,7 @@ public class Seating {
     public Seating(){}
 
 
- public String getUserneme() {
+    public String getUserneme() {
         return userneme;
     }
 
