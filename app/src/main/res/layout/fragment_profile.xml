@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".profileFragment"
     android:background="#F0E3D3">
-
+<!---->
     <!-- TODO: Update blank fragment layout -->
     <Button
         android:id="@+id/add"

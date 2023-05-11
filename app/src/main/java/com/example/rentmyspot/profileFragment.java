@@ -12,7 +12,7 @@ import android.widget.Button;
 
 import java.io.Serializable;
 
-
+//
 public class profileFragment extends Fragment implements Serializable {
     Button add,delete,logout;
 //    DBHelper DBHelper;

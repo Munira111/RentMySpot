@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
-
+//
 public class HomepageActivity extends SigninActivity {
     BottomNavigationView bottomNavigationView;
     homepageFragment homepageFragment = new homepageFragment();

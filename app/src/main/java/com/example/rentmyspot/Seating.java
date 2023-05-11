@@ -3,7 +3,7 @@ package com.example.rentmyspot;
 import android.graphics.BitmapFactory;
 
 import java.util.Arrays;
-
+//
 public class Seating {
 
     String userneme;

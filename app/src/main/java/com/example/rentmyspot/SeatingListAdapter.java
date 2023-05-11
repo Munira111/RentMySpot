@@ -13,7 +13,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 
 import java.util.List;
-
+//
 public class SeatingListAdapter extends ArrayAdapter<Seating> {
 
     private Context context;

@@ -6,5 +6,5 @@
     android:layout_height="match_parent"
     tools:context=".UplodeRetriveImageSQLiteApp"
     >
-
+<!---->
 </androidx.constraintlayout.widget.ConstraintLayout>

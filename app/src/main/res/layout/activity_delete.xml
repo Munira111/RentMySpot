@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#F0E3D3"
     tools:context=".deleteActivity">
-
+<!---->
     <ListView
         android:id="@+id/seatlist"
         android:layout_width="374dp"

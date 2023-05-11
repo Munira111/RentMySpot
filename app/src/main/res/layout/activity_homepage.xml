@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".HomepageActivity"
     android:background="#F0E3D3">
-
+<!---->
     <FrameLayout
         android:id="@+id/containar"
         android:layout_width="match_parent"

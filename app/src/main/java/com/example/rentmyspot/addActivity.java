@@ -29,7 +29,7 @@ import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
-
+//
 public class addActivity extends SigninActivity implements Serializable {
     EditText Sname ,Sprice, Sdescription;
     Button add1;
