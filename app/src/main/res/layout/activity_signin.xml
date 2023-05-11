@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#F0E3D3"
     tools:context=".SigninActivity">
-
+<!---->
     <EditText
         android:id="@+id/Age"
         android:layout_width="0dp"

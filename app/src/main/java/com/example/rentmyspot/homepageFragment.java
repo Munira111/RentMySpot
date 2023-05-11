@@ -18,7 +18,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-
+//
 public class homepageFragment extends Fragment {
     SeatingListAdapter seatArrayAdapter;
     ListView list;

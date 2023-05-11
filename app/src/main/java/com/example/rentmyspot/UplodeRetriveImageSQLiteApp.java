@@ -1,9 +1,7 @@
 package com.example.rentmyspot;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-
+//
 public class UplodeRetriveImageSQLiteApp extends AppCompatActivity {
 
     @Override

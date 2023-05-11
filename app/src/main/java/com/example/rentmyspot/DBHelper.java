@@ -9,6 +9,7 @@ import android.widget.EditText;
 import androidx.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
+//
 public class DBHelper extends SQLiteOpenHelper {
     public static final String DBNAME = "RentMySpot.db";
     public static final String TABLENAME1 = "users";

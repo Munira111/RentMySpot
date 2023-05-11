@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
+//
 public class SigninActivity extends AppCompatActivity {
     EditText username, password,Email,Age;
     Button signin;
