@@ -18,6 +18,6 @@ RentMySpot is an Android application designed to simplify the process of renting
 - Sql
 
 # Installation
-1- Clone the repository: git clone https://github.com/Munira111/RentMyFurniture.git
-2- Open the project in Android Studio.
-3- Build and run the app on your Android device or emulator.
+- Clone the repository: git clone https://github.com/Munira111/RentMyFurniture.git
+- Open the project in Android Studio.
+- Build and run the app on your Android device or emulator.
